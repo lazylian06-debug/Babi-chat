@@ -1,0 +1,15 @@
+{
+  "short_name": "OurChat",
+  "name": "Babi & Me Chat",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2589/2589175.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
